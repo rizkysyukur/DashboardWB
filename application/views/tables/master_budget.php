@@ -13,7 +13,7 @@
             <!-- Nav Item - User Information -->
             <li class="nav-item dropdown no-arrow">
                 <div class="nav-link">
-                    <h1 class="h3 text-gray-800">Tabel Master Anggaran</h1>
+                    <h1 class="h3 text-gray-800">Master Anggaran</h1>
                 </div>
             </li>
         </ul>
@@ -27,13 +27,14 @@
         <!-- DataTales Example -->
         <div class="card shadow mb-4">
             <div class="card-header py-3">
-                <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+                <h6 class="m-0 font-weight-bold text-primary">Tabel Master Anggaran</h6>
             </div>
             <div class="card-body">
                 <div class="table-responsive">
                     <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                         <thead>
                             <tr>
+                                <th>ID</th>
                                 <th>Nama Anggaran</th>
                                 <th>Pagu</th>
                                 <th>action</th>
@@ -41,24 +42,27 @@
                         </thead>
                         <tbody>
                             <tr>
+                                <td>MB1</td>
                                 <td>Fasilitasi Pengembangan Wisata Bahari</td>
-                                <td>Rp 100.000.000,-</td>
+                                <td>Rp 50.000.000.000,-</td>
                                 <td>
                                     <button type="button" class="btn btn-primary"><i class="fas fa-pen"></i></button>
                                     <button type="button" class="btn btn-danger"><i class="fas fa-trash"></i></button>
                                 </td>
                             </tr>
                             <tr>
+                                <td>MB2</td>
                                 <td>Pembangunan Desa Wisata Bahari</td>
-                                <td>Rp 150.000.000,-</td>
+                                <td>Rp 100.000.000.000,-</td>
                                 <td>
                                     <button type="button" class="btn btn-primary"><i class="fas fa-pen"></i></button>
                                     <button type="button" class="btn btn-danger"><i class="fas fa-trash"></i></button>
                                 </td>
                             </tr>
                             <tr>
+                                <td>MB3</td>
                                 <td>Peningkatan Kapasitas dan Pendampingan</td>
-                                <td>Rp 200.000.000,-</td>
+                                <td>Rp 50.000.000,-</td>
                                 <td>
                                     <button type="button" class="btn btn-primary"><i class="fas fa-pen"></i></button>
                                     <button type="button" class="btn btn-danger"><i class="fas fa-trash"></i></button>

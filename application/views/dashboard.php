@@ -65,7 +65,7 @@
                                                     <div class="col mr-2">
                                                         <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
                                                             Total Serapan Koordinasi Pengembangan Wisata Bahari</div>
-                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.100.000.000,-</div>
+                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.12.500.000.000,-</div>
                                                     </div>
                                                     <div class="col-auto">
                                                         <i class="fas fa-calendar fa-2x text-gray-300"></i>
@@ -85,7 +85,6 @@
                                             <!-- Card Body -->
                                             <div class="card-body">
                                                 <div class="chart-area">
-                                                    <!-- <div id="donutchart" style="width: 100%; height:100%;"></div> -->
                                                     <div id="sub_budget_chart_a_1" style="width: 100%; height:100%;"></div>
                                                 </div>
                                             </div>
@@ -102,7 +101,7 @@
                                                     <div class="col mr-2">
                                                         <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
                                                             Total Serapan Publikasi Wisata Bahari</div>
-                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.100.000.000,-</div>
+                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.12.500.000.000,-</div>
                                                     </div>
                                                     <div class="col-auto">
                                                         <i class="fas fa-calendar fa-2x text-gray-300"></i>
@@ -156,7 +155,7 @@
                                                     <div class="col mr-2">
                                                         <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
                                                             Total Serapan Perencanaan Pengembangan Desa Wisata Bahari</div>
-                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.100.000.000,-</div>
+                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.20.000.000.000,-</div>
                                                     </div>
                                                     <div class="col-auto">
                                                         <i class="fas fa-calendar fa-2x text-gray-300"></i>
@@ -176,7 +175,6 @@
                                             <!-- Card Body -->
                                             <div class="card-body">
                                                 <div class="chart-area">
-                                                    <!-- <div id="donutchart" style="width: 100%; height:100%;"></div> -->
                                                     <div id="sub_budget_chart_b_1" style="width: 100%; height:100%;"></div>
                                                 </div>
                                             </div>
@@ -193,7 +191,7 @@
                                                     <div class="col mr-2">
                                                         <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
                                                             Total Serapan Fasilitasi Pembangunan Sarana/Prasarana Wisata Bahari</div>
-                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.100.000.000,-</div>
+                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.15.000.000.000,-</div>
                                                     </div>
                                                     <div class="col-auto">
                                                         <i class="fas fa-calendar fa-2x text-gray-300"></i>
@@ -231,7 +229,7 @@
                                                     <div class="col mr-2">
                                                         <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
                                                             Total Serapan Pengawasan Pembangunan</div>
-                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.100.000.000,-</div>
+                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.15.000.000.000,-</div>
                                                     </div>
                                                     <div class="col-auto">
                                                         <i class="fas fa-calendar fa-2x text-gray-300"></i>
@@ -251,7 +249,6 @@
                                             <!-- Card Body -->
                                             <div class="card-body">
                                                 <div class="chart-area">
-                                                    <!-- <div id="donutchart" style="width: 100%; height:100%;"></div> -->
                                                     <div id="sub_budget_chart_b_3" style="width: 100%; height:100%;"></div>
                                                 </div>
                                             </div>
@@ -286,7 +283,7 @@
                                                     <div class="col mr-2">
                                                         <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
                                                             Total Serapan Penguatan Kelembagaan dan SDM</div>
-                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.100.000.000,-</div>
+                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.12.500.000.000,-</div>
                                                     </div>
                                                     <div class="col-auto">
                                                         <i class="fas fa-calendar fa-2x text-gray-300"></i>
@@ -306,7 +303,6 @@
                                             <!-- Card Body -->
                                             <div class="card-body">
                                                 <div class="chart-area">
-                                                    <!-- <div id="donutchart" style="width: 100%; height:100%;"></div> -->
                                                     <div id="sub_budget_chart_c_1" style="width: 100%; height:100%;"></div>
                                                 </div>
                                             </div>
@@ -323,7 +319,7 @@
                                                     <div class="col mr-2">
                                                         <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
                                                             Total Serapan Peningkatan kapasitas Selam Pengelola Wisata Bahari</div>
-                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.100.000.000,-</div>
+                                                        <div class="h5 mb-0 font-weight-bold text-gray-800">Rp.12.500.000.000,-</div>
                                                     </div>
                                                     <div class="col-auto">
                                                         <i class="fas fa-calendar fa-2x text-gray-300"></i>

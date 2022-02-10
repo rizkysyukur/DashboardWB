@@ -13,7 +13,7 @@
             <!-- Nav Item - User Information -->
             <li class="nav-item dropdown no-arrow">
                 <div class="nav-link">
-                    <h1 class="h3 text-gray-800">Transaksi</h1>
+                    <h1 class="h3 text-gray-800">Sub Anggaran</h1>
                 </div>
             </li>
         </ul>
@@ -27,7 +27,7 @@
         <!-- DataTales Example -->
         <div class="card shadow mb-4">
             <div class="card-header py-3">
-                <h6 class="m-0 font-weight-bold text-primary">Tabel Transaksi</h6>
+                <h6 class="m-0 font-weight-bold text-primary">Tabel Sub Anggaran</h6>
             </div>
             <div class="card-body">
                 <div class="table-responsive">
@@ -35,58 +35,78 @@
                         <thead>
                             <tr>
                                 <th>ID</th>
-                                <th>ID Sub Budget</th>
-                                <th>Nama Transaksi</th>
-                                <th>Serapan</th>
+                                <th>ID Master Budget</th>
+                                <th>Nama Anggaran</th>
+                                <th>Pagu</th>
                                 <th>action</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>TS1</td>
                                 <td>SB1</td>
-                                <td>Barang Operasional - Penanganan Pandemi Covid-19</td>
-                                <td>Rp 1.388.000.000,-</td>
+                                <td>MB1</td>
+                                <td>Koordinasi Pengembangan Wisata Bahari</td>
+                                <td>Rp 25.000.000.000,-</td>
                                 <td>
                                     <button type="button" class="btn btn-primary"><i class="fas fa-pen"></i></button>
                                     <button type="button" class="btn btn-danger"><i class="fas fa-trash"></i></button>
                                 </td>
                             </tr>
                             <tr>
-                                <td>TS2</td>
-                                <td>SB1</td>
-                                <td>Barang Persediaan - Penanganan Pandemi COVID 19</td>
-                                <td>Rp 1.388.000.000,-</td>
+                                <td>SB2</td>
+                                <td>MB1</td>
+                                <td>Publikasi Wisata Bahari</td>
+                                <td>Rp 25.000.000.000,-</td>
                                 <td>
                                     <button type="button" class="btn btn-primary"><i class="fas fa-pen"></i></button>
                                     <button type="button" class="btn btn-danger"><i class="fas fa-trash"></i></button>
                                 </td>
                             </tr>
                             <tr>
-                                <td>TS2</td>
-                                <td>SB1</td>
-                                <td>Bahan</td>
-                                <td>Rp 1.388.000.000,-</td>
+                                <td>SB3</td>
+                                <td>MB2</td>
+                                <td>Perencanaan Pengembangan Desa Wisata Bahari</td>
+                                <td>Rp 40.000.000.000,-</td>
                                 <td>
                                     <button type="button" class="btn btn-primary"><i class="fas fa-pen"></i></button>
                                     <button type="button" class="btn btn-danger"><i class="fas fa-trash"></i></button>
                                 </td>
                             </tr>
                             <tr>
-                                <td>TS4</td>
-                                <td>SB1</td>
-                                <td>Sewa</td>
-                                <td>Rp 1.388.000.000,-</td>
+                                <td>SB4</td>
+                                <td>MB2</td>
+                                <td>Fasilitasi Pembangunan Sarana/Prasarana Wisata Bahari</td>
+                                <td>Rp 30.000.000.000,-</td>
                                 <td>
                                     <button type="button" class="btn btn-primary"><i class="fas fa-pen"></i></button>
                                     <button type="button" class="btn btn-danger"><i class="fas fa-trash"></i></button>
                                 </td>
                             </tr>
                             <tr>
-                                <td>TS5</td>
-                                <td>SB1</td>
-                                <td>Basa - Penanganan Pandemi COVID 19</td>
-                                <td>Rp 1.388.000.000,-</td>
+                                <td>SB5</td>
+                                <td>MB2</td>
+                                <td>Pengawasan Pembangunan</td>
+                                <td>Rp 30.000.000,-</td>
+                                <td>
+                                    <button type="button" class="btn btn-primary"><i class="fas fa-pen"></i></button>
+                                    <button type="button" class="btn btn-danger"><i class="fas fa-trash"></i></button>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>SB6</td>
+                                <td>MB3</td>
+                                <td>Penguatan Kelembagaan dan SDM</td>
+                                <td>Rp 25.000.000.000,-</td>
+                                <td>
+                                    <button type="button" class="btn btn-primary"><i class="fas fa-pen"></i></button>
+                                    <button type="button" class="btn btn-danger"><i class="fas fa-trash"></i></button>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>SB6</td>
+                                <td>MB3</td>
+                                <td>Pengawasan Peningkatan kapasitas Selam Pengelola Wisata Bahari</td>
+                                <td>Rp 25.000.000,-</td>
                                 <td>
                                     <button type="button" class="btn btn-primary"><i class="fas fa-pen"></i></button>
                                     <button type="button" class="btn btn-danger"><i class="fas fa-trash"></i></button>

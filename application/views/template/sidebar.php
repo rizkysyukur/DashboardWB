@@ -14,7 +14,7 @@
 
         <!-- Nav Item - Dashboard -->
         <li class="nav-item active">
-            <a class="nav-link" href="javascript:void(0)">
+            <a class="nav-link" href="<?= base_url() ?>">
                 <i class="fas fa-fw fa-tachometer-alt"></i>
                 <span>Dashboard</span></a>
         </li>
@@ -34,9 +34,9 @@
             </a>
             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
-                    <a class="collapse-item" href="javascript:void(0)">Master Anggaran</a>
-                    <a class="collapse-item" href="javascript:void(0)">Sub Anggaran 1</a>
-                    <a class="collapse-item" href="javascript:void(0)">Sub Anggaran 2</a>
+                    <a class="collapse-item" href="<?= base_url('dashboard/master_budget') ?>">Master Anggaran</a>
+                    <a class="collapse-item" href="<?= base_url('dashboard/sub_budget') ?>">Sub Anggaran</a>
+                    <a class="collapse-item" href="<?= base_url('dashboard/transaction') ?>">Transaksi</a>
                 </div>
             </div>
         </li>

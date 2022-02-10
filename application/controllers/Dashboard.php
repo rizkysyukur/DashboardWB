@@ -20,19 +20,11 @@ class Dashboard extends CI_Controller
 		$this->load->view('template/footer');
 	}
 
-	public function sub_budget_lv1()
+	public function sub_budget()
 	{
 		$this->load->view('template/header');
 		$this->load->view('template/sidebar');
-		$this->load->view('tables/sub_budget_lv1');
-		$this->load->view('template/footer');
-	}
-
-	public function sub_budget_lv2()
-	{
-		$this->load->view('template/header');
-		$this->load->view('template/sidebar');
-		$this->load->view('tables/sub_budget_lv2');
+		$this->load->view('tables/sub_budget');
 		$this->load->view('template/footer');
 	}
 

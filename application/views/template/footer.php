@@ -49,9 +49,9 @@
     function drawChart() {
         var data = google.visualization.arrayToDataTable([
             ['Tahun 2021', 'Pagu', 'Serapan'],
-            ['Fasilitasi Pengembangan Wisata Bahari', 1000000, 400000],
-            ['Pembangunan Desa Wisata Bahari', 1170000, 460000],
-            ['Peningkatan Kapasitas dan Pendampingan', 660000, 1120000]
+            ['Fasilitasi Pengembangan Wisata Bahari', 50000000000, 25000000000],
+            ['Pembangunan Desa Wisata Bahari', 100000000000, 50000000000],
+            ['Peningkatan Kapasitas dan Pendampingan', 50000000000, 25000000000]
         ]);
 
         var options = {
@@ -74,17 +74,17 @@
     function drawChart() {
         var data = google.visualization.arrayToDataTable([
             ['Anggaran', 'Serapan'],
-            ['Pagu', 1000000],
-            ['Barang Operasional - Penanganan Pandemi Covid-19', 1000000],
-            ['Barang Persediaan - Penanganan Pandemi COVID 19', 2000000],
-            ['Bahan', 3000000],
-            ['Sewa', 4500000],
+            ['Pagu', 12500000000],
+            ['Barang Operasional - Penanganan Pandemi Covid-19', 1388000000],
+            ['Barang Persediaan - Penanganan Pandemi COVID 19', 1388000000],
+            ['Bahan', 1388000000],
+            ['Sewa', 1388000000],
             ['Jasa Profesi', 7],
-            ['Jasa - Penanganan Pandemi COVID 19', 7000000],
-            ['perjalanan biasa', 2500000],
-            ['Perjalanan Dinas Dalam Kota', 3000000],
-            ['Perjalanan Dinas Paket Meeting Luar Kota', 1000000],
-            ['Modal Peralatan dan Mesin', 5500000],
+            ['Jasa - Penanganan Pandemi COVID 19', 1388000000],
+            ['perjalanan biasa', 1388000000],
+            ['Perjalanan Dinas Dalam Kota', 1388000000],
+            ['Perjalanan Dinas Paket Meeting Luar Kota', 1388000000],
+            ['Modal Peralatan dan Mesin', 1388000000],
         ]);
 
         var options = {
@@ -106,10 +106,11 @@
     function drawChart() {
         var data = google.visualization.arrayToDataTable([
             ['Anggaran', 'Serapan'],
-            ['Bahan', 1500000],
-            ['Sewa', 1000000],
-            ['Jasa Lainnya', 2000000],
-            ['Perjalanan Biasa', 3000000]
+            ['Pagu', 12500000000],
+            ['Bahan', 3125000000],
+            ['Sewa', 3125000000],
+            ['Jasa Lainnya', 3125000000],
+            ['Perjalanan Biasa', 3125000000]
         ]);
 
         var options = {
@@ -204,15 +205,14 @@
     google.charts.setOnLoadCallback(drawChart);
 
     function drawChart() {
-        var data =
-            var data = google.visualization.arrayToDataTable([
-                ['Anggaran', 'Serapan'],
-                ['Bahan', 1500000],
-                ['Jasa Profesi', 2000000],
-                ['Perjalanan Biasa', 2500000],
-                ['Perjalanan Dinas Paket Meeting Dalam Kota', 3000000],
-                ['Perjalanan Dinas Paket Meeting Luar Kota', 4500000]
-            ]);
+        var data = google.visualization.arrayToDataTable([
+            ['Anggaran', 'Serapan'],
+            ['Bahan', 1500000],
+            ['Jasa Profesi', 2000000],
+            ['Perjalanan Biasa', 2500000],
+            ['Perjalanan Dinas Paket Meeting Dalam Kota', 3000000],
+            ['Perjalanan Dinas Paket Meeting Luar Kota', 4500000]
+        ]);
 
         var options = {
             pieHole: 0.4,
